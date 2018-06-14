@@ -128,5 +128,18 @@ réponse : Le Projet GNU a été démarré en septembre 1983 par Richard M. Stal
 
 
 
+question 14: Quelles sont les différences entre le Http et le Https ?
+
+source de la réponse : http://www.webmaster-freelance.cm/blog/referencement-web/difference-entre-http-et-https/
+
+réponse : HTTP (HyperText Transport Protocol) et HTTPS (HyperText Transport Protocol Secure) sont tous deux des protocoles de communication client-serveur. Leur but étant de permettre un transfert de fichiers localisés grâce à une chaine de caractères appelée URL, entre un navigateur web (Client) et un serveur web.
+
+
+
+
+
+
+
+
 
 

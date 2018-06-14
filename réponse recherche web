@@ -146,6 +146,21 @@ réponse : Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu a
 
 
 
+question 16: Comment fonctionnent les bang de Duck Duck Go ?
+
+source de la réponse : https://fr.wikipedia.org/wiki/DuckDuckGo#!Bang
+
+réponse : 
+DuckDuckGo permet d'effectuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang31, en exemple :
+la commande « !wfr » ou « !w » redirige directement vers le site Wikipédia, respectivement francophone et anglophone. Ainsi, par exemple, la commande « !wfr duckduckgo » redirige directement vers l'article « DuckDuckGo » de Wikipédia francophone.
+la commande « !g » lance la recherche sur Google
+la commande « ! » redirige directement vers le premier résultat de la recherche, comme la fonction « J'ai de la chance » de Google.
+
+
+
+
+
+
 
 
 
